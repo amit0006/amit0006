@@ -10,8 +10,6 @@
 
 📡 IoT & Embedded Systems – Explored RFID attendance systems, smart shoes/exoskeletons, and sensor applications (GPS, piezoelectric, load cells, temperature, etc.).
 
-📊 Data & Tools – Customized Power BI dashboards (dark mode ✨) and mastered Linux permissions (chmod).
-
 🌍 Social Impact Projects – Focused on education, healthcare, and safety: RFID attendance in rural schools, doctor-at-doorstep services, and innovative ideas to prevent violence in public spaces.
 
 🔥 What drives me:
